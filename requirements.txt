@@ -1,0 +1,5 @@
+pandas
+string
+nltk
+re
+textblob
